@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        // You have to explicitly set @types to get DefinitelyTyped type definitions
+        "typeRoots": [
+            "node_modules/@types",
+            "node_modules/web-ext-types"
+        ],
+        "target": "ES2020"
+    }
+}

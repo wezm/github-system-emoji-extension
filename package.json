@@ -1,0 +1,13 @@
+{
+  "name": "fix-github-emoji",
+  "version": "1.0.0",
+  "description": "Fix emoji on GitHub for Linux users",
+  "main": "source/background.js",
+  "repository": "https://github.com/wezm/github-system-emoji-extension.git",
+  "author": "Wesley Moore <wes@wezm.net>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "web-ext-types": "^3.2.1"
+  }
+}
