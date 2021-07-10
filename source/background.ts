@@ -5,7 +5,7 @@ browser.webRequest.onBeforeSendHeaders.addListener(
 		if (e.requestHeaders) {
 			for (var header of e.requestHeaders) {
 				if (header.name.toLowerCase() === "user-agent") {
-					header.value = (header.value || "").replace(/Linux/g, "Mac OS X");
+					header.value = (header.value || "").replace(/Linux/g, "Windows");
 				}
 			}
 		}
