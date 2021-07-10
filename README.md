@@ -1,4 +1,4 @@
-# GitHub System Emoji
+# GitHub System Emoji 😀
 
 This is a Firefox extension that makes GitHub use the system emoji font on
 Linux, FreeBSD, and other non-Windows, non-macOS systems.
