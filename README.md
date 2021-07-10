@@ -18,7 +18,7 @@ This screenshot shows the output before the extension is enabled and after
 
 ## Install
 
-[Download from Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/todo/)
+[Download from Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/github-system-emoji/)
 
 ## Build from Source
 
