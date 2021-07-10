@@ -30,3 +30,8 @@ Versions used (for AMO reviewers):
 * **Operating System:** Arch Linux
 * **Yarn:** 1.22.10
 * **TypeScript:** 4.3.4
+
+## Acknowledgements
+
+* Icon made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>
+  from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
