@@ -19,3 +19,14 @@ This screenshot shows the output before the extension is enabled and after
 ## Install
 
 [Download from Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/todo/)
+
+## Build from Source
+
+1. Run `yarn install`
+2. Run `tsc`, output is `source/background.js`.
+
+Versions used (for AMO reviewers):
+
+* **Operating System:** Arch Linux
+* **Yarn:** 1.22.10
+* **TypeScript:** 4.3.4
