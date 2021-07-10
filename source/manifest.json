@@ -1,7 +1,7 @@
 {
-  "description": "Use system emoji on GitHub",
+  "description": "Make GitHub use the system emoji font instead of serving ugly images.",
   "manifest_version": 2,
-  "name": "Fix GitHub Emoji",
+  "name": "GitHub System Emoji",
   "version": "1.0",
   "icons": {
     "48": "icon-48.png",
